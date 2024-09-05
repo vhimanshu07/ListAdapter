@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">List Adapter</string>
+    <string name="hi_i_am_random">HI I am random</string>
+    <string name="nice_stuff">Nice stuff</string>
+</resources>
